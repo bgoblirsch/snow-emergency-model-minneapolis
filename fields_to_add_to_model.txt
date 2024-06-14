@@ -1,0 +1,21 @@
+Fields to use for the model:
+
+Highest Priority:
+yesterday’s snowfall - easy to do
+Tomorrow’s forecasted snow 
+Day after tomorrow forecasted snow
+
+Would be good to have:
+Day of the week
+emergencies so far this season
+Restriction in place?
+Forecasted Snow
+Actual Snow
+
+Nice to Haves:
+Forecasted High
+Forecasted Low
+Tomorrow’s Forecasted High
+Tomorrow’s Forecasted Low
+holiday in the next 3 days?
+Days since fall solstice
