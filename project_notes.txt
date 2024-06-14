@@ -1,0 +1,6 @@
+St Anthony Falls - do not use snow or snow depth data before winter of 2010
+UMN - do not use snow or snow depth data before winter of 2009
+Only use MSP for weather types
+Only MSP for wind
+If any of the three days report snow, only include others in the average if reported snow > 0
+Manually review all snow emergency days
